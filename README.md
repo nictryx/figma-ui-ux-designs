@@ -6,16 +6,34 @@ This repository showcases interface concepts for different types of applications
 
 ## Projects
 
+### Travel Guide System
+
+A travel-focused UI/UX concept designed to help users explore destinations, access travel information, and navigate tourism-related services.
+
 ### Medical Health Care System
 
-A healthcare-focused interface designed around medical and health-related services.
+A healthcare application concept covering multiple services such as:
+
+- Blood bank and donor management
+- COVID-19 symptoms, precautions, and prediction
+- Medical lab search and test booking
+- Pharmacy information
+- Hospital listings and appointment booking
+- Vaccine certificate access
 
 **Figma Design:**  
 https://www.figma.com/design/yfjUoqSMVMUNnftGQDnzbN/Medical-Health-Care-System?node-id=0-1&p=f
 
 ### Solar Panel Monitoring System
 
-A monitoring dashboard concept designed for viewing and managing solar panel system information.
+A monitoring dashboard concept focused on:
+
+- Solar panel performance
+- Power output and performance gain
+- Cleaning cost
+- Cleaning schedule and duration
+- Temperature and dust monitoring
+- Overall panel health status
 
 **Figma Design:**  
 https://www.figma.com/design/G0nrkWyA3UFU2I4onLuFW1/Untitled?node-id=0-1&p=f
