@@ -46,6 +46,6 @@ https://www.figma.com/design/G0nrkWyA3UFU2I4onLuFW1/Untitled?node-id=0-1&p=f
 - Wireframing
 - Prototyping
 
-## Purpose
+## Goal
 
-The Purpose of this portfolio is to showcase UI/UX design skills across different application domains and demonstrate experience creating clear, practical, and visually organized interfaces.
+The Goal of this portfolio is to showcase UI/UX design skills across different application domains and demonstrate experience creating clear, practical, and visually organized interfaces.
